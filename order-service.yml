@@ -16,4 +16,4 @@ management:
 
 order:
   status:
-    message: "Order Service 활성화 상태"
+    message: "Order Service 활성화 상태임당"
